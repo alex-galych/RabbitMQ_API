@@ -1,4 +1,4 @@
-## RebbitMQ API with php-amqplib ##
+## RabbitMQ API with php-amqplib ##
 
 [Visit Rabbitmq](http://www.rabbitmq.com/)
 
